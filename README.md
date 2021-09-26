@@ -16,9 +16,9 @@ Preparation tasks to do:
 The following implementation tasks will expect you in the hackathon:
 
 1. Create Repository Secrets
-2. Create an Infrastructure Pipeline with terraform
+2. Create an Infrastructure Pipeline with Terraform
 3. Run the WebApp Pipeline we already created for you
-4. **Optional Extra Task:** Create Monitoring
+4. **Optional Extra Task:** Add Monitoring to your Infrastructure Pipeline
 
 :white_check_mark: We also created a working solution for you. So no matter which background you have we will get you ramped up. 
 If at any Point you need assistance nevertheless do not hesitate to ask. We are here to Help you.
